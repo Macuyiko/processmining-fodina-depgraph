@@ -30,6 +30,9 @@ public class Test {
 		BitSet bitsetGraph = Fodina.dependencyNetToBitSet(dependencyGraph);
 		System.out.println(bitsetGraph);
 		
+		// Here is where you'd mess about with the bit set
+		// Once done, convert it back to a Fodina DependencyNet
+		
 		DependencyNet newDependencyGraph = Fodina.bitSetToDependencyNet(bitsetGraph, dependencyGraph.getTasks().size());
 		System.out.println(newDependencyGraph);
 		
