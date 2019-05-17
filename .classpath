@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/fodina-2018-05-17.jar"/>
+	<classpathentry kind="lib" path="lib/ApacheUtils.jar"/>
+	<classpathentry kind="lib" path="lib/fodina-libs-2018-05-17.jar"/>
+	<classpathentry kind="lib" path="lib/Log.jar"/>
+	<classpathentry kind="lib" path="lib/Murata.jar"/>
+	<classpathentry kind="lib" path="lib/OpenXES-20181205.jar"/>
+	<classpathentry kind="lib" path="lib/PetriNets.jar"/>
+	<classpathentry kind="lib" path="lib/BPMN.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="lib/ProM-Contexts-6.8.34.jar"/>
+	<classpathentry kind="lib" path="lib/ProM-Framework-6.8.60.jar"/>
+	<classpathentry kind="lib" path="lib/ProM-Models-6.7.20.jar"/>
+	<classpathentry kind="lib" path="lib/ProM-Plugins-6.7.45.jar"/>
+	<classpathentry kind="lib" path="lib/Uitopia-0.5-20160527.jar"/>
+	<classpathentry kind="lib" path="lib/slickerbox-1.0rc1.jar"/>
+	<classpathentry kind="lib" path="lib/Widgets.jar"/>
+	<classpathentry kind="lib" path="lib/guava-16.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
