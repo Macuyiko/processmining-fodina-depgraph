@@ -2,9 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="lib/fodina-2018-05-17.jar"/>
 	<classpathentry kind="lib" path="lib/ApacheUtils.jar"/>
-	<classpathentry kind="lib" path="lib/fodina-libs-2018-05-17.jar"/>
 	<classpathentry kind="lib" path="lib/Log.jar"/>
 	<classpathentry kind="lib" path="lib/Murata.jar"/>
 	<classpathentry kind="lib" path="lib/OpenXES-20181205.jar"/>
@@ -19,5 +17,7 @@
 	<classpathentry kind="lib" path="lib/slickerbox-1.0rc1.jar"/>
 	<classpathentry kind="lib" path="lib/Widgets.jar"/>
 	<classpathentry kind="lib" path="lib/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/fodina-2019-06-17.jar"/>
+	<classpathentry kind="lib" path="lib/fodina-libs-2019-06-17.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
